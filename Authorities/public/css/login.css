@@ -1,0 +1,35 @@
+body{
+
+    background: url('./../img/one.jpeg');
+
+    background-position: center;
+
+    background-attachment: fixed;
+
+    background-size: 100%;
+
+    padding-top: 120px;
+
+    font-family: 'Harrington';
+
+    font-size: 30px;
+
+}
+
+.center_card{
+
+    margin: auto;
+
+}
+
+.curved_border{
+
+    border-radius: 25px;
+
+}
+
+.informations{
+
+    opacity: 85%;
+
+}

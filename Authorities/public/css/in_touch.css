@@ -1,0 +1,44 @@
+body{
+
+    background: url('./../img/three.jpg');
+
+    background-position: center;
+
+    background-attachment: fixed;
+
+    background-size: 100%;
+
+    padding-top: 120px;
+
+    font-family: 'Harrington';
+
+    font-size: 30px;
+
+}
+
+.center_card{
+
+    margin: auto;
+
+}
+
+.informations{
+
+    opacity: 85%;
+
+}
+
+
+.curved_border{
+
+    border-radius: 25px;
+
+}
+
+.alert_all_button{
+
+    margin-top: 20px;
+
+    margin-left: 200px;
+
+}

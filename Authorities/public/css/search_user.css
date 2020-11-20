@@ -1,0 +1,68 @@
+
+body{
+
+    background: url('./../img/two.jpeg');
+
+    background-position: center;
+
+    background-attachment: fixed;
+
+    background-size: 100%;
+
+    padding-top: 120px;
+
+    font-family: 'Harrington';
+
+    font-size: 30px;
+
+}
+
+
+.center_card{
+
+    margin: auto;
+
+}
+
+.phone_number{
+
+    float: left;
+
+}
+
+.search_button{
+
+    float: right;
+
+    margin-top: -48px;
+
+    height: 55px;
+
+    width: 300px;
+
+}
+
+.declare_button{
+
+    float: left;
+
+}
+
+.see_in_touch_button{
+
+    float: right;
+
+}
+
+.curved_border{
+
+    border-radius: 25px;
+
+}
+
+
+.informations{
+
+    opacity: 80%;
+
+}
